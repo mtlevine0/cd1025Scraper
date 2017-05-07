@@ -13,6 +13,6 @@
         <property name="show_sql">true</property>
 		<property name="hibernate.hbm2ddl.auto">create</property>
         <property name="hibernate.connection.pool_size">25</property>
-		<mapping class="com.devwed.cd1025analytics.model.Song"></mapping>   
+		<mapping class="com.devwed.cd1025scraper.model.Song"></mapping>   
 	</session-factory>
 </hibernate-configuration>

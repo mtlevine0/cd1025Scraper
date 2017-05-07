@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.devwed</groupId>
-	<artifactId>cd1025analytics</artifactId>
+	<artifactId>cd1025Scraper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>cd1025analytics</name>
+	<name>cd1025Scraper</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
